@@ -442,9 +442,9 @@ a {
   
   .background3 .app {
     position: absolute;
-    left: 55%;
-    top: 21%;
-    width: 550px;
+    left: 45%;
+    top: 17%;
+    width: 900px;
     height: auto;
   }
   
@@ -461,7 +461,7 @@ a {
     position: absolute;
     left: 27%;
     top: 21%;
-    width: 550px;
+    width: 800px;
     height: auto;
   }
   
@@ -495,7 +495,7 @@ a {
   
   .background4 .graphfront1 {
     position: absolute;
-    width: 85%;
+    width: 75%;
     height: 45px;
     background-color: #FF00CC;
     border-radius: 50px;
@@ -520,7 +520,7 @@ a {
   
   .background4 .graphfront2 {
     position: absolute;
-    width: 90%;
+    width: 70%;
     height: 45px;
     background: #9C43FF;
     border-radius: 50px;
@@ -599,8 +599,8 @@ a {
   .background5 .picture .face-container .face {
     z-index: 3;
     position: absolute;
-    width: 83px;
-    height: 83px;
+    width: 85px;
+    height: 85px;
     background-color: #fff;
     border-radius: 100%;
   }
